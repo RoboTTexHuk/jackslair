@@ -644,7 +644,7 @@ class BlackjackManifest {
       'fb_app_name': 'blackjacktime',
       'app_name': 'blackjacktime',
       'deep': null,
-      'bundle_identifier': 'ccom.porttoul.fag.sloungeportalroullete',
+      'bundle_identifier': 'com.enew.kolapfga.pok',
       'app_version': '1.0.0',
       'apple_id': '6755542932',
       'fcm_token': token ?? 'no_token',
